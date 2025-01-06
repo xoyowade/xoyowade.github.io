@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Zhiwei Xiao (肖之慰)"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # "he/his" # example: "she/her"  
   bio              : "Architect | Tech Lead | Quant Trading"
   location         : "Shanghai, China"
   employer         : "Ruitian Capital"
